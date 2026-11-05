@@ -4,5 +4,15 @@
   "versionName": "V.I.P.#",
   "apkUrl": "https://github.com/leeshin575757/getout/releases/download/v1/getout_vip.apk",
   "sign": "U2FsdGVkX18RNsQqKybd5yQWBPipklcyRE96Lx2ockYSmz1hkveDXR3MgzCazPFMYevrDliwf61T3Hz5ZuukCTGUJxXOiSWBgcDsX0/9OsoaWaLG+Ih02T+g/S2dKpL6",
-  "log": "Chuyển hướng kho lưu trữ.\n* Link download: https://bom.so/getoutvn\n* Mã download: 3216496\n"
+  "log": "Chuyển hướng kho lưu trữ.\n* Link download: https://bom.so/getoutvn\n* Mã download: 3216496\n",
+  "module": [
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/cola.dex",
+        "status": true,
+        "version": 1,
+        "name": "ColaTV",
+        "type": "Sport"
+        "sha256": "400EF2D98CCE6D3D15D3AE3A49A13F6DF138DD77B8AC48912D60B00D4E6DFAC6"
+    }
+    ]
 }
