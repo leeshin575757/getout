@@ -11,7 +11,7 @@
         "status": true,
         "version": 1,
         "name": "ColaTV",
-        "type": "Sport"
+        "type": "Sport",
         "sha256": "400EF2D98CCE6D3D15D3AE3A49A13F6DF138DD77B8AC48912D60B00D4E6DFAC6"
     }
     ]
