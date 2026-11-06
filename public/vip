@@ -10,7 +10,8 @@
         "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/cola.dex",
         "status": true,
         "version": 1,
-        "name": "CoLaTV",
+        "name": "CoLa",
+        "className": "CoLaTV",
         "type": "Sport",
         "sha256": "400EF2D98CCE6D3D15D3AE3A49A13F6DF138DD77B8AC48912D60B00D4E6DFAC6"
     }
