@@ -7,11 +7,29 @@
   "log": "Chuyển hướng kho lưu trữ.\n* Link download: https://bom.so/getoutvn\n* Mã download: 3216496\n",
   "module": [
     {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/giovang.dex",
+        "status": true,
+        "version": 1,
+        "name": "Giờ Vàng",
+        "className": "GioVang",
+        "type": "Sport",
+        "sha256": "470F807CE35184F426037DCD553FEB1654D59CC1305C77FD66D5AD7353A58982"
+    },
+    {
         "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/cola.dex",
         "status": true,
         "version": 1,
         "name": "CoLa",
         "className": "CoLaTV",
+        "type": "Sport",
+        "sha256": "DEA2C819D5C0E8152F50EB6A45C2A9BFB4A1CCE315F162529CEE7400A240A997"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/chuoichien.dex",
+        "status": true,
+        "version": 1,
+        "name": "Chuối Chiên",
+        "className": "ChuoiChien",
         "type": "Sport",
         "sha256": "D4F90C449AAB4604B87E928A564F5A49A2A1A89CBD5C6A833799BC5178408090"
     }
