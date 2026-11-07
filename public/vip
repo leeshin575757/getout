@@ -13,7 +13,7 @@
         "name": "Giờ Vàng",
         "className": "GioVang",
         "type": "Sport",
-        "sha256": "470F807CE35184F426037DCD553FEB1654D59CC1305C77FD66D5AD7353A58982"
+        "sha256": "88E2696E18FB1B43B8FF1544F820D5FE979FEA00AF007D45022BDE581BF3F1A2"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/cola.dex",
@@ -31,7 +31,7 @@
         "name": "Chuối Chiên",
         "className": "ChuoiChien",
         "type": "Sport",
-        "sha256": "5FBB61721CB0CEF49ED9FFB5D405F88FB56BA3F42A84D440431D10D346151D5D"
+        "sha256": "5E0BC355DCE3705AEF530E50B4812E5A9C542683CC936CAA36D0586AA3A72ED7"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/gavang33.dex",
@@ -40,7 +40,7 @@
         "name": "Gà Vàng 333",
         "className": "GaVang333",
         "type": "Sport",
-        "sha256": "C582DC913846C3CF78C9F70B42F45EFF63A525572AFD3C65304727503C686560"
+        "sha256": "BA11A202754AB73A0ED0FFE212625E998E8957FE580EA1D12D9AA0B6955BA93F"
     }
     ]
 }
