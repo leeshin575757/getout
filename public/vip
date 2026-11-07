@@ -31,7 +31,16 @@
         "name": "Chuối Chiên",
         "className": "ChuoiChien",
         "type": "Sport",
-        "sha256": "D4F90C449AAB4604B87E928A564F5A49A2A1A89CBD5C6A833799BC5178408090"
+        "sha256": "5FBB61721CB0CEF49ED9FFB5D405F88FB56BA3F42A84D440431D10D346151D5D"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/gavang33.dex",
+        "status": true,
+        "version": 1,
+        "name": "Gà Vàng 333",
+        "className": "GaVang333",
+        "type": "Sport",
+        "sha256": "C582DC913846C3CF78C9F70B42F45EFF63A525572AFD3C65304727503C686560"
     }
     ]
 }
